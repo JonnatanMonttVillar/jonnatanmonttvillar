@@ -1,6 +1,1 @@
-<style>
-  .p {
-  font-size: 4rem;
-  }
-</style>
-<p> Hola Mundo </p>
+<p style="font-size:2rem;"> Hola Mundo </p>
